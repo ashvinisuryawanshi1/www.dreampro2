@@ -7,9 +7,35 @@ h1{
 }
 h2{
     background-color: aquamarine;
-    height: 200px;
-    /* width: 250px; */
+    height: 100px;
+    /* width: 400px;    */
     font-size: 50px;
+    /* padding-left: 100px; */
 
 
+}
+.one{
+    background-color: green;
+    height: 200px;
+    width: 200px;
+    /* margin-left: 20px; */
+    padding-left: 9%;
+
+}
+.two{
+    background-color: lightseagreen;
+    height: 100px;
+    width: 300px;
+    /* float: right; */
+    margin-left: 400px;
+    margin-top: -150px;
+
+}
+.three{
+    height: 300px;
+    width: 300px;
+    background-color: orange;
+    margin-left: 800px;
+    margin-top: -150px;
+    
 }
